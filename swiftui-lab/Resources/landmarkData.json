@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "At Silver Salmon Creek Lodge Alaska bear viewing, other wildlife, landscape, and outdoor opportunities combine to offer visitors a true sense of Alaskan wilderness. Towering volcanic mountains form an immediate backdrop to the tidal marshes, streams and pristine salt-water bays which comprise the coastline of Lake Clark National Park. Silver Salmon Creek Lodge is a premier vacation destination for wildlife photography, world-class sport fishing and Alaska bear viewing. Under the same management since 1983, hosts David and Joanne Coray welcome all national and international guests. The lodge offers its patrons a sense of Alaska adventure with all of the upscale amenities as well. The lodge has developed into one of the premier sites in Alaska to view Brown Bears in their natural environment. Our knowledgeable guides assist our guests in getting properly positioned for excellent viewing, understand behavioral nuances and gain key information about bear biology. Bear viewing services are offered from June through mid-September, and we also offer an overnight bear viewing package.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "The Chilkoot Trail is a 33-mile (53 km) trail through the Coast Mountains that leads from Dyea, Alaska, in the United States, to Bennett, British Columbia, in Canada. It was a major access route from the coast to Yukon goldfields in the late 1890s. The trail became obsolete in 1899 when a railway was built from Dyea's neighbor port Skagway along the parallel White Pass trail.The Chilkoot Trail and Dyea Site was designated a U.S. National Historic Landmark in 1978. In 1987, the trail was designated a National Historic Site of Canada. In 1998, the centennial of the gold rush, Chilkoot Trail National Historic Site in British Columbia joined with the U.S. park to create the Klondike Gold Rush National Historical Park.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Saint Mary Lake is the second-largest lake in Glacier National Park, in the U.S. state of Montana. Located on the east side of the park, Going-to-the-Sun Road parallels the lake along its north shore. At an altitude of 4,484 feet (1,367 m), Saint Mary Lake's waters are colder and lie almost 1,500 feet (460 m) higher in altitude than Lake McDonald, the largest lake in the park, which is located on the west side of the Continental Divide. Here, the great plains end and the Rocky Mountains begin in an abrupt 5,000-foot (1,500 m) altitude change, with Little Chief Mountain posing a formidable southern flank above the west end of the lake.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Twin Lake is an unincorporated community in Muskegon County of the U.S. state of Michigan. It is a census-designated place (CDP) for statistical purposes. Local government services are provided by Dalton Township. As of the 2000 census, the community population was 1,613. It is the home of Blue Lake Fine Arts Camp, the YMCA's Camp Pinewood, the Boy Scouts' Gerber Scout Reservation and Owasippe Scout Reservation.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest lake in Glacier National Park. It is located at 48°35′N 113°55′W in Flathead County in the U.S. state of Montana. Lake McDonald is approximately 10 miles (16 km) long, and over a mile (1.6 km) wide and 472 feet (130 m) deep, filling a valley formed by a combination of erosion and glacial activity. Lake McDonald lies at an elevation of 3,153 feet (961 m)[1] and is on the west side of the Continental Divide. Going-to-the-Sun Road parallels the lake along its southern shoreline. The surface area of the lake is 6,823 acres (27.6 km2)",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "Yukon–Charley Rivers National Preserve is a United States national preserve located in east central Alaska along the border with Canada. Managed by the National Park Service, the preserve encompasses 130 miles (208 km) of the 1,800-mile (3,000 km) Yukon River and the entire Charley River basin. The preserve protects the undeveloped Charley River and a significant portion of the upper Yukon. The interior Alaskan region experiences extremes of weather, with temperatures that can vary from −50 °F (−46 °C) in winter to 97 °F (36 °C) in summertime",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Icy Bay (Tlingit: Lig̲aasi Áa) is a body of water in Southeast Alaska, formed in the last 100 years[timeframe?] by the rapid retreat of the Guyot, Yahtse, and Tyndall Glaciers. It is part of the Wrangell-Saint Elias Wilderness. At the beginning of the 20th century, the bay entrance was permanently blocked by a giant tidewater glacier face that calved icebergs directly into the Gulf of Alaska. A century-long[timeframe?] glacial retreat has opened a multi-armed bay more than 30 miles (48 km) long.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "In the 2021 Census of Population conducted by Statistics Canada, the Town of Rainbow Lake recorded a population of 495 living in 204 of its 352 total private dwellings, a change of -37.7% from its 2016 population of 795. With a land area of 10.76 km2 (4.15 sq mi), it had a population density of 46.0/km2 (119.1/sq mi) in 2021",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Hidden Lake is located immediately east of Hidden Lake Peaks in North Cascades National Park, in the U. S. state of Washington. Hidden Lake is off designated trails but can reached by way a trailhead off the Cascade River Road from Snoqualmie National Forest. The distance from the trailhead to the lake is 4.5 mi (7.2 km) one way to the overlook and another 0.8 mi (1.3 km) rock scramble through a boulder field to the lakeshore",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Chincoteague (/ˌʃɪŋkəˈtiːɡ/ or /ˈʃɪŋkətiːɡ/) is a town in Accomack County, Virginia, U.S. The town includes the whole of Chincoteague Island and an area of adjacent water. The population was 2,941 at the 2010 census. The town is known for the Chincoteague Ponies, although these are not actually on the island of Chincoteague but on nearby Assateague Island. These ponies and the annual Pony Penning Day are the subject of Marguerite Henry's 1947 children's book Misty of Chincoteague, which was made into the 1961 family film Misty, filmed on location.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Umbagog Lake is a wilderness lake located in Coös County, New Hampshire, and Oxford County, Maine. It is one of the most pristine lakes in the state of New Hampshire. It lies in the towns of Errol, New Hampshire, and Upton, Maine, as well as the townships of Cambridge, New Hampshire, and Magalloway Plantation, Maine. The name Umbagog is properly pronounced with the stress on the second syllable (um-BAY-gog) and is said to come from the Abenaki word for shallow water. Both Lake Umbagog and Umbagog Lake are commonly used and accepted when referring to the body of water.",
+        "imageName": "umbagog"
+    }
+]
