@@ -1,26 +1,39 @@
 import SwiftUI
 
+@available(iOS 17.0, *)
 struct LandmarkList: View {
+    @Environment(ModelData.self) var modelData
+    @State private var showFavoritesOnly = false
+    
+    var filteredLandmarks: [Landmark] {
+        modelData.landmarks.filter { landmark in
+            (!showFavoritesOnly || landmark.isFavorite)
+        }
+    }
+    
     var body: some View {
         NavigationView {
-            List(landmarks) { landmark in
-                NavigationLink {
-                    LandmarkDetail(landmark: landmark)
-                } label: {
-                    LandmarkRow(landmark: landmark)
+            List {
+                Toggle(isOn: $showFavoritesOnly) {
+                    Text("Favorites only")
                 }
+                
+                ForEach(filteredLandmarks) { landmark in
+                    NavigationLink {
+                        LandmarkDetail(landmark: landmark)
+                    } label: {
+                        LandmarkRow(landmark: landmark)
+                    }
+                }
+                .animation(.default, value: filteredLandmarks)
+                .navigationTitle(NSLocalizedString("ListTitle", comment: "Title of the list"))
             }
-            .navigationTitle(NSLocalizedString("ListTitle", comment: "Title of the list"))
         }
     }
 }
 
-struct LandmarkList_Previews: PreviewProvider {
-    static var previews: some View {
-        ForEach(["iPhone 13 Pro", "iPhone 13 mini"], id: \.self) { deviceName in
-            LandmarkList()
-                .previewDevice(PreviewDevice(rawValue: deviceName))
-                .previewDisplayName(deviceName)
-        }
-    }
+
+
+#Preview {
+    LandmarkList().environment(ModelData())
 }
