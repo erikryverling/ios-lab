@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 struct FavoriteButton: View {
     @Binding var isSet: Bool
     

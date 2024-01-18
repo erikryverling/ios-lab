@@ -1,10 +1,3 @@
-//
-//  Hexacons.swift
-//  swiftui-lab
-//
-//  Created by Erik R. Yverling on 2024-01-16.
-//
-
 import CoreGraphics
 
 struct HexagonParameters {

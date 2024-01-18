@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 struct CategoryItem: View {
     var landmark: Landmark
     

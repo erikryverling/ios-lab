@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 struct BadgeBackground: View {
     var body: some View {
         GeometryReader { geometry in

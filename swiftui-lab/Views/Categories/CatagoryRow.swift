@@ -1,6 +1,5 @@
 import SwiftUI
 
-
 struct CategoryRow: View {
     var categoryName: String
     var items: [Landmark]
